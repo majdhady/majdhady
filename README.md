@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @majdhady
 - 👀 I’m interested in computer programming and aviation.
 - 🌱 I’m currently a freshman in high school.
-- 💞️ I’m looking to collaborate on coodin.
+- 💞️ I’m looking to collaborate on coding.
 - 📫 You can reach me on majdhady@gmail.com
 
 <!---
